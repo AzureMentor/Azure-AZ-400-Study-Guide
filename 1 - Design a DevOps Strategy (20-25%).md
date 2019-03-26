@@ -35,7 +35,13 @@
 - Recommend tools and practices to integrate infrastructure security validation
 
 ## Design a tool integration strategy
-- Design a license management strategy (e.g., VSTS users, concurrent pipelines, test environments, open source software licensing, third-party DevOps tools and services, package management licensing)
+- Design a license management strategy, for example:
+    - VSTS users
+    - concurrent pipelines
+    - test environments
+    - open source software licensing
+    - 3rd-party DevOps tools and services
+    - package management licensing
 - Design a strategy for end-to-end traceability from work items to working software
 - Design a strategy for integrating monitoring and feedback to development teams
 - Design an authentication and access strategy
