@@ -3,10 +3,17 @@
 - Analyze existing artifact (e.g., deployment packages, NuGet) and container repositories
 - Analyze existing test management tools
 - Analyze existing work management tools
-- Recommend migration and integration strategies for artifact repositories, source control, test management, and work management
+- Recommend migration and integration strategies for:
+    - artifact repositories
+    - source control
+    - test management
+    - work management
 
 ## Design and implement an Agile work management approach
-- Identify and recommend project metrics, KPIs, and DevOps measurements (e.g., cycle time, lead time, WIP limit)
+- Identify and recommend
+    - project metrics
+    - KPIs
+    - DevOps measurements (e.g., cycle time, lead time, WIP limit)
 - Implement tools and processes to support Agile work management
 - Mentor team members on Agile techniques and practices
 - Recommend an organization structure that supports scaling Agile practices
