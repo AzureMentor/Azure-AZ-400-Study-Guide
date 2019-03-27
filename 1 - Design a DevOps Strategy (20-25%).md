@@ -1,8 +1,13 @@
 # AZ-400: Design a DevOps Strategy (20-25%)
 ## Recommend a Migration and Consolidation Strategy for DevOps Tools
-- Analyze Existing Artifact (e.g., Deployment Packages, NuGet) and Container Repositories
+- Analyze Existing Artifact, for example:
+    - Deployment Packages
+    - NuGet
+- Analyze Container Repositories
 - Analyze Existing Test Management Tools
+    - [Azure Test Plans](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azure-devops)
 - Analyze Existing Work Management Tools
+    - [Azure Boards](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azure-devops)
 - Recommend Migration and Integration Strategies for:
     - Artifact Repositories
     - Source Control

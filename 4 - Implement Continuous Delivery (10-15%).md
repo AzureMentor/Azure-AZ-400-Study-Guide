@@ -8,22 +8,23 @@
 
 ## Set up a release management workflow
 - Automate Inspection of Health Signals for Release Approvals by using Release Gates
-- Configure Automated Integration and Functional Test Execution
+- Configure Automated Integration and [Functional Test](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/test/run-functional-tests) Execution
 - Create a Release Pipeline, for example:
     - Azure Kubernetes Service (AKS)
     - Service Fabric
     - WebApp
-- Create Multi-Phase Release Pipelines
+- [Create Multi-Phase Release Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/release/define-multistage-release-process)
 - Integrate Secrets with Release Pipeline
 - Provision and Configure Environments
 - Manage and Modularize Tasks and Templates, for example:
-    - Task and Variable Groups
+    - [Task Groups](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/task-groups)
+    - [Variable Groups](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/variable-groups)
 
 ## Implement an Appropriate Deployment Pattern
-- Implement Blue-Green deployments
+- Implement [Blue-Green deployments](https://azure.microsoft.com/en-us/blog/blue-green-deployments-using-azure-traffic-manager/)
 - Implement Canary Deployments
-- Implement Progressive Exposure Deployments
+- Implement [Progressive Exposure Deployments](https://blogs.msdn.microsoft.com/devops/2018/05/07/release-gates-enable-progressive-exposure-and-phased-deployments/)
 - Scale a Release Pipeline to Deploy to Multiple Endpoints, for example:
-    - Deployment Groups
+    - [Deployment Groups](https://docs.microsoft.com/en-us/azure/devops/pipelines/release/deployment-groups)
     - Azure Kubernetes Service (AKS)
     - Service Fabric

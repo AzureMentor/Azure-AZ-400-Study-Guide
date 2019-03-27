@@ -6,8 +6,8 @@
 - Manage Test Suites and Categories
 - Monitor Quality of Tests
 - Integrate Security Analysis Tools, for example:
-    - SonarQube
-    - WhiteSource Bolt
+    - [SonarQube](https://docs.microsoft.com/en-us/azure/devops/java/sonarqube) | [Lab](https://www.azuredevopslabs.com/labs/vstsextend/sonarqube/)
+    - [WhiteSource Bolt](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
     - Open Web Application Security Project
 
 ## Implement a Container Build Strategy
@@ -17,7 +17,11 @@
 - Analyze and Integrate Docker Multi-Stage Builds
 
 ## Implement a Build Strategy
-- Design Build Triggers, Tools, Integrations, and Workflow
+- Design:
+    - [Build Triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/triggers)
+    - Tools
+    - [Integrations](https://azure.microsoft.com/en-us/products/devops-tool-integrations/)
+    - Workflow
 - Implement a Hybrid Build Process
 - Implement Multi-Agent Builds
 - Recommend Build Tools and Configuration, for example:

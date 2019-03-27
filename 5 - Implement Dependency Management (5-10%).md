@@ -15,5 +15,5 @@
     - GPLv3
 - Configure Build Pipeline to Access Package Security and License Rating, for example:
     - Black Duck
-    - WhiteSource
-- Configure Secure Access to Package Feeds
+    - [WhiteSource](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
+- Configure [Secure Access to Package Feeds](https://docs.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions)
