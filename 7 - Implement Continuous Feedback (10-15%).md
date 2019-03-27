@@ -1,18 +1,33 @@
 # Implement Continuous Feedback (10-15%)
-## Recommend and design system feedback mechanisms
-- Design practices to measure end-user satisfaction (e.g., Send a Smile, app analytics)
-- Design processes to capture and analyze user feedback from external sources (e.g., Twitter, Reddit, Help Desk)
-- Design routing for client application crash report data (e.g., HockeyApp)
-- Recommend monitoring tools and technologies
-- Recommend system and feature usage tracking tools
-## Implement process for routing system feedback to development teams
-- Configure crash report integration for client applications
-- Develop monitoring and status dashboards
-- Implement routing for client application crash report data (e.g., HockeyApp)
-- Implement tools to track system usage, feature usage, and flow
-- Integrate and configure ticketing systems with development team's work management system (e.g., IT Service Management connector, ServiceNow Cloud Management, App Insights work items)
-## Optimize feedback mechanisms
-- Analyze alerts to establish a baseline
-- Analyze telemetry to establish a baseline
-- Perform live site reviews and capture feedback for system outages
-- Perform ongoing tuning to reduce meaningless or non-actionable alerts
+## Recommend and Design System Feedback Mechanisms
+- Design Practices to Measure End-user Satisfaction, for example:
+    - Send a Smile
+    - App Analytics
+- Design Processes to Capture and Analyze User Feedback from External Sources, for example:
+    - Twitter
+    - Reddit
+    - Help Desk
+- Design Routing for Client Application Crash Report Data, for example:
+    - HockeyApp
+- Recommend Monitoring Tools and Technologies
+- Recommend System and Feature Usage Tracking Tools
+
+## Implement Process for Routing System Feedback to Development Teams
+- Configure Crash Report Integration for Client Applications
+- Develop Monitoring and Status Dashboards
+- Implement Routing for Client Application Crash Report Data, for example:
+    - HockeyApp
+- Implement Tools to Track:
+    - System Usage
+    - Feature Usage
+    - Flow
+- Integrate and Configure Ticketing Systems with Development Team's Work Management System, for example:
+    - IT Service Management Connector
+    - ServiceNow Cloud Management
+    - App Insights Work Items
+
+## Optimize Feedback Mechanisms
+- Analyze Alerts to Establish a Baseline
+- Analyze Telemetry to Establish a Baseline
+- Perform Live Site Reviews and Capture Feedback for System Outages
+- Perform Ongoing Tuning to Reduce Meaningless or Non-Actionable Alerts

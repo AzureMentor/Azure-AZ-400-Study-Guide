@@ -1,20 +1,29 @@
 # Implement Continuous Delivery (10-15%)
-## Design a release strategy
-- Recommend release tools
-- Identify and recommend release approvals and gates
-- Recommend strategy for measuring quality of release and release process
-- Recommend strategy for release notes and documentation
-- Select appropriate deployment pattern
+## Design a Release Strategy
+- Recommend Release Tools
+- Identify and Recommend Release Approvals and Gates
+- Recommend Strategy for Measuring Quality of Release and Release Process
+- Recommend strategy for Release Notes and Documentation
+- Select Appropriate Deployment Pattern
+
 ## Set up a release management workflow
-- Automate inspection of health signals for release approvals by using release gates
-- Configure automated integration and functional test execution
-- Create a release pipeline (e.g., Azure Kubernetes Service, Service Fabric, WebApp)
-- Create multi-phase release pipelines
-- Integrate secrets with release pipeline
-- Provision and configure environments
-- Manage and modularize tasks and templates (e.g., task and variable groups)
-## Implement an appropriate deployment pattern
-- Implement blue-green deployments
-- Implement canary deployments
-- Implement progressive exposure deployments
-- Scale a release pipeline to deploy to multiple endpoints (e.g., deployment groups, Azure Kubernetes Service, Service Fabric)
+- Automate Inspection of Health Signals for Release Approvals by using Release Gates
+- Configure Automated Integration and Functional Test Execution
+- Create a Release Pipeline, for example:
+    - Azure Kubernetes Service (AKS)
+    - Service Fabric
+    - WebApp
+- Create Multi-Phase Release Pipelines
+- Integrate Secrets with Release Pipeline
+- Provision and Configure Environments
+- Manage and Modularize Tasks and Templates, for example:
+    - Task and Variable Groups
+
+## Implement an Appropriate Deployment Pattern
+- Implement Blue-Green deployments
+- Implement Canary Deployments
+- Implement Progressive Exposure Deployments
+- Scale a Release Pipeline to Deploy to Multiple Endpoints, for example:
+    - Deployment Groups
+    - Azure Kubernetes Service (AKS)
+    - Service Fabric
