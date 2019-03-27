@@ -40,7 +40,7 @@
 ## Design a tool integration strategy
 - Design a License Management Strategy, for example:
     - VSTS Users
-    - Concurrent Pipelines
+    - [Concurrent Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops)
     - Test Environments
     - Open Source Software Licensing
     - 3rd-party DevOps Tools and Services

@@ -11,7 +11,7 @@
 ## Implement and manage Build Infrastructure
 - Implement Private and Hosted Agents
 - Integrate 3rd-party build systems
-- Recommend strategy for Concurrent Pipelines
+- [Recommend strategy for Concurrent Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops)
 - Manage Azure Pipeline Configuration, for example:
     - Agent Queues
     - Service Endpoints
@@ -19,23 +19,23 @@
     - Webhooks
 
 ## Implement Code Flow
-- Implement Pull Request Strategies
+- [Implement Pull Request Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests-overview?view=azure-devops)
 - Implement Branch Strategies
-- Implement Fork Strategies
-- Configure Branch Policies
+- [Implement Fork Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/forks-overview?view=azure-devops)
+- [Configure Branch Policies](https://docs.microsoft.com/en-us/azure/devops/repos/git/branch-policies-overview?view=azure-devops)
 
 ## Implement a Mobile DevOps Strategy
 - Manage Mobile Target Device Sets and Distribution Groups
 - Manage Target UI Test Device Sets
 - Provision Tester Devices for Deployment
-- Create Public and Private Distribution Groups
+- [Create Public and Private Distribution Groups](https://docs.microsoft.com/en-us/appcenter/distribution/groups)
 
 ## Managing Application Configuration and Secrets
 - Implement a Secure and Compliant Development Process
 - Implement General (non-secret) Configuration Data
 - Manage:
     - Secrets
-    - Tokens
+    - [Tokens](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops)
     - Certificates
 - Implement Applications Configurations, for example:
     - Web App

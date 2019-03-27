@@ -16,7 +16,7 @@
 - Configure Crash Report Integration for Client Applications
 - Develop Monitoring and Status Dashboards
 - Implement Routing for Client Application Crash Report Data, for example:
-    - HockeyApp
+    - [HockeyApp](https://hockeyapp.net/features/crashreports/)
 - Implement Tools to Track:
     - System Usage
     - Feature Usage
@@ -29,5 +29,5 @@
 ## Optimize Feedback Mechanisms
 - Analyze Alerts to Establish a Baseline
 - Analyze Telemetry to Establish a Baseline
-- Perform Live Site Reviews and Capture Feedback for System Outages
+- [Perform Live Site Reviews and Capture Feedback for System Outages](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/live-site-culture-and-reliability)
 - Perform Ongoing Tuning to Reduce Meaningless or Non-Actionable Alerts
