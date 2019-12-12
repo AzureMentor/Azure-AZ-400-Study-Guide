@@ -41,7 +41,8 @@
 - Inspect and Validate Code Base for Compliance
 - Inspect and Validate Infrastructure for Compliance
 - Recommend a Secure Development Strategy
-- Recommend Tools and Practices to Integrate Code Security Validation (e.g., Static Code Analysis)
+- Recommend Tools and Practices to Integrate Code Security Validation, for example:
+    - Static Code Analysis
 - Recommend Tools and Practices to Integrate Infrastructure Security Validation
 
 ## Design a tool integration strategy

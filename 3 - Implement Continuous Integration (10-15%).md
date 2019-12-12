@@ -12,7 +12,7 @@
 
 ## Implement a Container Build Strategy
 - Create Deployable Images, for example:
-    - Docker
+    - Docker Hub
     - Azure Container Registry
 - Analyze and Integrate Docker Multi-Stage Builds
 
