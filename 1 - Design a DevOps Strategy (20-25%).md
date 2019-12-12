@@ -3,6 +3,8 @@
 - Analyze Existing Artifact, for example:
     - Deployment Packages
     - NuGet
+    - Maven
+    - npm
 - Analyze Container Repositories
 - Analyze Existing Test Management Tools
     - [Azure Test Plans](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azure-devops)
@@ -39,7 +41,8 @@
 - Inspect and Validate Code Base for Compliance
 - Inspect and Validate Infrastructure for Compliance
 - Recommend a Secure Development Strategy
-- Recommend Tools and Practices to Integrate Code Security Validation (e.g., Static Code Analysis)
+- Recommend Tools and Practices to Integrate Code Security Validation, for example:
+    - Static Code Analysis
 - Recommend Tools and Practices to Integrate Infrastructure Security Validation
 
 ## Design a tool integration strategy

@@ -1,9 +1,9 @@
-# Implement Dependency Management (5-10%)
+# AZ-400: Implement Dependency Management (5-10%)
 ## Design a Dependency Management Strategy
 - Recommend Artifact Management Tools and Practices, for example:
     - Azure Artifacts
     - npm
-    - maven
+    - Maven
     - NuGet
 - Abstract Common Packages to Enable Sharing and Reuse
 - Inspect Codebase to Identify Code Dependencies that can be Converted to Packages
