@@ -1,4 +1,4 @@
-# Implement Continuous Delivery (10-15%)
+# AZ-400: Implement Continuous Delivery (10-15%)
 ## Design a Release Strategy
 - Recommend Release Tools
 - Identify and Recommend Release Approvals and Gates
@@ -6,7 +6,7 @@
 - Recommend strategy for Release Notes and Documentation
 - Select Appropriate Deployment Pattern
 
-## Set up a release management workflow
+## Set up a Release Management Workflow
 - Automate Inspection of Health Signals for Release Approvals by using Release Gates
 - Configure Automated Integration and [Functional Test](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/test/run-functional-tests) Execution
 - Create a Release Pipeline, for example:

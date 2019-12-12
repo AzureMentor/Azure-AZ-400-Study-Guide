@@ -3,6 +3,8 @@
 - Analyze Existing Artifact, for example:
     - Deployment Packages
     - NuGet
+    - Maven
+    - npm
 - Analyze Container Repositories
 - Analyze Existing Test Management Tools
     - [Azure Test Plans](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azure-devops)

@@ -1,4 +1,4 @@
-# Implement Application Infrastructure (15-20%)
+# AZ-400: Implement Application Infrastructure (15-20%)
 ## Design an Infrastructure and Configuration Management Strategy
 - Analyze Existing and Future Hosting Infrastructure
 - Analyze Existing Infrastructure as Code (IaC) Technologies
