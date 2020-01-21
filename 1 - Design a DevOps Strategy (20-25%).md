@@ -12,7 +12,7 @@
     - [Azure Boards](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azure-devops)
 - Recommend Migration and Integration Strategies for:
     - Artifact Repositories
-    - Source Control
+    - [Source Control](https://docs.microsoft.com/en-us/azure/devops/user-guide/source-control) | [Import repositories from TFVC to Git](https://docs.microsoft.com/en-us/azure/devops/repos/git/import-from-tfvc?view=azure-devops)
     - Test Management
     - Work Management
 
@@ -27,7 +27,7 @@
 - Implement Tools and Processes to support Agile Work Management
 - Mentor Team Members on Agile Techniques and Practices
 - Recommend an Organization Structure that supports Scaling Agile Practices
-- Recommend In-Team and Cross-Team Collaboration Mechanisms
+- [Recommend In-Team and Cross-Team Collaboration Mechanisms](https://docs.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops&tabs=basic-process)
 
 ## Design a Quality Strategy
 - Analyze Existing Quality Environment
