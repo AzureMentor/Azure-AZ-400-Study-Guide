@@ -7,16 +7,14 @@
     - Twitter
     - Reddit
     - Help Desk
-- Design Routing for Client Application Crash Report Data, for example:
-    - [HockeyApp](https://hockeyapp.net/features/crashreports/)
+- Design Routing for Client Application Crash Report Data
 - Recommend [Monitoring Tools and Technologies](https://azure.microsoft.com/en-us/product-categories/management-tools/)
 - Recommend System and Feature Usage Tracking Tools
 
 ## Implement Process for Routing System Feedback to Development Teams
 - Configure Crash Report Integration for Client Applications
 - Develop [Monitoring and Status Dashboards](https://docs.microsoft.com/en-us/azure/devops/report/dashboards/dashboards)
-- Implement Routing for Client Application Crash Report Data, for example:
-    - [HockeyApp](https://hockeyapp.net/features/crashreports/)
+- Implement Routing for Client Application Crash Report Data
 - Implement Tools to Track:
     - System Usage
     - Feature Usage
