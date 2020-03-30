@@ -28,3 +28,5 @@
     - [Deployment Groups](https://docs.microsoft.com/en-us/azure/devops/pipelines/release/deployment-groups)
     - Azure Kubernetes Service (AKS)
     - Service Fabric
+
+[Return to Table of Contents](README.md)

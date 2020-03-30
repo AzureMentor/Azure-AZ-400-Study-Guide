@@ -47,3 +47,5 @@
     - Containers
     - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-key-vault)
 - Implement tools for managing [Security and Compliance in the Pipeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/2018/sprint-141-update)
+
+[Return to Table of Contents](README.md)

@@ -17,3 +17,5 @@
     - Black Duck
     - [WhiteSource](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
 - Configure [Secure Access to Package Feeds](https://docs.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions)
+
+[Return to Table of Contents](README.md)

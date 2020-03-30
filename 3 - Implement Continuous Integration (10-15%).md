@@ -28,3 +28,5 @@
     - Azure Pipelines
     - Jenkins
 - Set up an Automated Build Workflow
+
+[Return to Table of Contents](README.md)

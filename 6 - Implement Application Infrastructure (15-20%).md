@@ -35,3 +35,5 @@
 - Automate Configuration Management by using PowerShell Desired State Configuration (DSC)
 - Automate Configuration Management by using a VM Agent with Custom Script Extensions
 - Set up an Automated Pipeline to Inspect Security and Compliance
+
+[Return to Table of Contents](README.md)

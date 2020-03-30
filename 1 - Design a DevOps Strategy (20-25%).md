@@ -57,3 +57,5 @@
 - Design a Strategy for Integrating Monitoring and Feedback to Development Teams
 - Design an Authentication and Access Strategy
 - Design a Strategy for Integrating On-premises and Cloud Resources
+
+[Return to Table of Contents](README.md)
